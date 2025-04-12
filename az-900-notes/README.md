@@ -16,6 +16,6 @@ These are my study notes from the AZ-900 certification, which I passed in April 
 
 ## 🔗 Notion Notes
 
-📘 [AZ-900 Full Notes on Notion](https://www.notion.so/YOUR-AZ900-NOTION-LINK)
+📘 [AZ-900 Full Notes on Notion](https://www.notion.so/Azure-Fundamentals-AZ-900-1d3cdd482df6805a97ddc9d8ed2a9a64?pvs=4)
 
 > Maintained and updated for quick reference or review.
