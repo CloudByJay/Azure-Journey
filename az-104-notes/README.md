@@ -16,6 +16,6 @@ These are my active study notes as I prepare for the AZ-104 certification. Conte
 
 ## 🔗 Notion Notes
 
-📘 [AZ-104 Notes on Notion](https://www.notion.so/YOUR-AZ104-NOTION-LINK)
+📘 [AZ-104 Notes on Notion](https://www.notion.so/Azure-Administrator-Associate-AZ-104-1d2cdd482df6802db50de9e9f2232d51?pvs=4)
 
 > Live docs include CLI commands, diagrams, and breakdowns per topic.
