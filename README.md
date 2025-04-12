@@ -1,52 +1,43 @@
-# ☁️ CloudByJay – Azure Learning Journey
+# 👋 Hi, I'm Jay (CloudByJay)
 
-Welcome to my public cloud portfolio. I'm learning Microsoft Azure and documenting everything along the way — from foundational certs to hands-on projects.
+I'm a career transitioner with over 10 years of frontline experience in the transportation industry — from ramp agent and customer service at Delta Airlines to track worker at NYCTA.
 
----
-
-## 🧠 Certification Progress
-
-| Certification | Status |
-|---------------|--------|
-| AZ-900: Azure Fundamentals | ✅ Passed (April 2025) |
-| AZ-104: Azure Administrator | 📘 In Progress |
+Now, I’m building my future in **cloud computing** ☁️ — one cert, one project, and one repo at a time.
 
 ---
 
-## 📘 Study Notes
-
-| Exam | Notes |
-|------|-------|
-| AZ-900 | [AZ-900 Notes](./az-900-notes) |
-| AZ-104 | [AZ-104 Notes](./az-104-notes) |
-
-All my notes live in Notion and are kept up to date. Each folder links to public Notion pages.
+### 🚀 Currently Working On
+- 📘 **Microsoft Azure**  
+  - AZ-900 ✅ *(Certified)*  
+  - AZ-104 *(In Progress)*
+- 🧠 Studying daily, documenting with Notion
+- 🛠 Building foundational projects to break into cloud roles
 
 ---
 
-## 🧪 Projects
+### 📚 My Cloud Journey
 
-Real hands-on projects will live here — each focused on core Azure skills like CLI deployment, networking, and monitoring.
-
-🔧 Projects currently in planning phase.  
-➡️ [View upcoming projects](./projects)
-
----
-
-## ⚙️ Scripts
-
-CLI and PowerShell scripts I write or reuse during labs will be stored in [`scripts/`](./scripts).
+- 🔗 [**Azure Journey GitHub Repo**](https://github.com/CloudByJay/azure-journey)
+- 🧾 [AZ-900 Study Notes (Notion)](https://www.notion.so/Azure-Fundamentals-AZ-900-1d3cdd482df6805a97ddc9d8ed2a9a64)
+- ⚙️ [AZ-104 Study Notes (Notion)](https://www.notion.so/Azure-Administrator-Associate-AZ-104-1d2cdd482df6802db50de9e9f2232d51)
 
 ---
 
-## 📌 About Me
+### 🎯 Next Goals
+- Deploy real-world Azure resources using CLI & Bicep
+- Build a public-facing cloud project portfolio
+- Pass the AZ-104 and work toward Terraform & DevOps
+- Collaborate and contribute to open-source cloud projects
 
-I'm Jason — the builder behind **CloudByJay**.
+---
 
-Before tech, I spent over 10 years in the transportation industry working frontline operations at Delta Airlines and the MTA. I’ve been a ramp agent, customer service rep, and currently work as a track worker with NYC Transit. My background is built on real-world pressure, teamwork, and zero-margin-for-error environments.
+### 🧰 Tools & Tech I'm Using
+`Azure` `CLI` `ARM Templates` `Notion` `GitHub` `Markdown` `VS Code`
 
-Now, I’m channeling that mindset into cloud computing. I’ve passed the **AZ-900**, and I’m currently working through **AZ-104**, learning Azure from the ground up and documenting everything here.
+---
 
-This repo tracks my progress — certs, notes, upcoming projects, and the journey from infrastructure rookie to skilled cloud professional.
+### 🤝 Let’s Connect
 
-> Not just changing careers — rebuilding from the ground up.
+I’m learning in public, staying consistent, and focused on launching a new career in cloud tech.  
+Follow my journey, check out my repo, or reach out if you’re doing the same. Let’s build.
+
