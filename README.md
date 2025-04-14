@@ -60,4 +60,4 @@ I'm a cloud computing student on a focused path toward a cloud/infra role. No fl
 ### 🔎 Now What?
 
 Currently prepping for AZ-104 and working on automation-heavy cloud projects.  
-If you're hiring for junior cloud, infra, or DevOps roles—I'm actively learning and building.
+If you're hiring for cloud, infra, or DevOps roles—I'm actively learning and building.
