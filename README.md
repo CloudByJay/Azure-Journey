@@ -26,7 +26,16 @@ I'm a cloud computing student on a focused path toward a junior cloud/infra role
 ### 📂 Featured Repos
 
 - [`Azure-Journey`](https://github.com/CloudByJay/Azure-Journey):  
-  Notes, cert prep, hands-on labs, and project deployments in Azure
+  Personal repo documenting my path through Azure certifications (AZ-900 → AZ-104) and real Azure projects.  
+  Structured with:
+  - `az-900-notes/` & `az-104-notes/`: Cert prep and study material  
+  - `projects/`: Real hands-on labs and deployments  
+  - `scripts/`: CLI and IaC automation (PowerShell, Bicep, eventually Terraform)  
+  - MIT licensed and open for feedback  
+  Goals:
+  - Learn by doing, document every step
+  - Publish a job-ready cloud portfolio
+  - Push certs, projects, and automation—not fluff
 
 ---
 
@@ -52,4 +61,3 @@ I'm a cloud computing student on a focused path toward a junior cloud/infra role
 
 Currently prepping for AZ-104 and working on automation-heavy cloud projects.  
 If you're hiring for junior cloud, infra, or DevOps roles—I'm actively learning and building.
-
