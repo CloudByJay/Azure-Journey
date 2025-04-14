@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Jason — aka CloudByJay
 
-I'm a cloud computing student on a focused path toward a junior cloud/infra role. No fluff—just consistent, public work toward real-world skills in Azure. This GitHub is where I document everything: study notes, scripts, projects, and progress.
+I'm a cloud computing student on a focused path toward a cloud/infra role. No fluff—just consistent, public work toward real-world skills in Azure. This GitHub is where I document everything: study notes, scripts, projects, and progress.
 
 ---
 
